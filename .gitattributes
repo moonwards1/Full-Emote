@@ -1,0 +1,17 @@
+Content/ThirdPerson filter=lfs diff=lfs merge=lfs -text
+Content/WBC_VisSwitcher.COPY filter=lfs diff=lfs merge=lfs -text
+Content/__ExternalActors__ filter=lfs diff=lfs merge=lfs -text
+Content/__ExternalObjects__ filter=lfs diff=lfs merge=lfs -text
+Content/Collections filter=lfs diff=lfs merge=lfs -text
+Content/Development filter=lfs diff=lfs merge=lfs -text
+Content/Moonwards filter=lfs diff=lfs merge=lfs -text
+Content/StarterContent filter=lfs diff=lfs merge=lfs -text
+Content/Characters filter=lfs diff=lfs merge=lfs -text
+Content/Developers filter=lfs diff=lfs merge=lfs -text
+Content/LevelPrototyping filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+Content/. filter=lfs diff=lfs merge=lfs -text
+.uasset filter=lfs diff=lfs merge=lfs -text
+Content/** filter=lfs diff=lfs merge=lfs -text lockable
+Content/MetaHumans/. filter=lfs diff=lfs merge=lfs -text
