@@ -8,6 +8,15 @@ Especially useful when players want to add a reaction to someone voice chatting 
 You can easily use it to highlight parts of your chat. Imagine pointing in the direction of the place one is talking about.
 
 
-How to add animations
+This project uses Git LFS
 
-How players select animations
+This is a git LFS repository. Before cloning, ensure you have Git LFS installed. Get it here - https://git-lfs.github.com/
+
+Software packages like GitHub Desktop or GitKraken should automatically clone all the pointers for LFS files, and then pull the ones you need when you checkout a branch.
+
+If that doesn't happen, in a terminal enter this: git-lfs fetch
+
+and after that's done enter:
+git-lfs checkout .
+
+That will pull all LFS files.
