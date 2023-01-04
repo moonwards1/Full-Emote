@@ -25,6 +25,7 @@ Makefile
 *.workspace
 *.pro
 *.pri
+.vsconfig
 *CodeCompletionFolders.txt
 *CodeLitePreProcessor.txt
 MoonwardsUE.sln.DotSettings.user
